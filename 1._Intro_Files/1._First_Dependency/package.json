@@ -1,4 +1,7 @@
 {
+    "scripts": {
+        "start": "node ./peopleParty.js"
+    },
     "dependencies": {
         "faker": "4.1.0"
     }
