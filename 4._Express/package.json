@@ -1,0 +1,19 @@
+{
+  "name": "firstexpress",
+  "version": "1.0.0",
+  "description": "This is the first express API that can do some CRUD",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "keywords": [
+    "API",
+    "CRUD",
+    "Express"
+  ],
+  "author": "RM",
+  "license": "ISC"
+}
